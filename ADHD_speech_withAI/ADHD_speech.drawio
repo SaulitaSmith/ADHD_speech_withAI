@@ -1,0 +1,149 @@
+<mxfile host="Electron" modified="2024-04-15T06:43:55.935Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="g5Sy7oAqzbwmzWDF7qQI" version="24.1.0" type="device">
+  <diagram name="Page-1" id="QJyD-yPzQ6DIfnF8v41R">
+    <mxGraphModel dx="954" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q1KITODIG441PftpcKlS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q1KITODIG441PftpcKlS-1" target="q1KITODIG441PftpcKlS-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="245" />
+              <mxPoint x="60" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-1" value="ADHD&amp;nbsp;&lt;div&gt;user&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="110" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q1KITODIG441PftpcKlS-4" target="q1KITODIG441PftpcKlS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-4" value="&lt;b&gt;input prompt:&lt;/b&gt;&lt;div&gt;Bla bla bla bla&lt;br&gt;bla bla bla and&lt;/div&gt;&lt;div&gt;... TESLA&lt;/div&gt;&lt;div&gt;Bla bla bla bla&lt;/div&gt;&lt;div&gt;iguanas are vegan&lt;/div&gt;&lt;div&gt;... TESLA&lt;br&gt;Bla bla bla bla&lt;br&gt;Ball pythons are&lt;br&gt;harmless bla&lt;br&gt;Bla ....&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="160" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-6" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+          <mxGeometry x="25" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-7" value="Speech-to-Text" style="sketch=0;html=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=image;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMTggMjAiPiYjeGE7CTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+JiN4YTsJLnN0MHtmaWxsOiM0Mjg1ZjQ7fSYjeGE7CS5zdDF7ZmlsbDojNjY5ZGY2O30mI3hhOwk8L3N0eWxlPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik04IDBoMnYyMEg4ek00IDZoMnY4SDR6bTggMGgydjhoLTJ6TTAgM2gydjE0SDB6bTE2IDBoMnYxNGgtMnoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNOCAwaDJ2MTBIOHpNNCA2aDJ2NEg0em04IDBoMnY0aC0yek0wIDNoMnY3SDB6bTE2IDBoMnY3aC0yeiIvPiYjeGE7PC9zdmc+;" vertex="1" parent="1">
+          <mxGeometry x="61" y="160" width="38" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-8" value="&lt;strong&gt;User Interface&lt;/strong&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q1KITODIG441PftpcKlS-9" target="q1KITODIG441PftpcKlS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-9" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#01A88D;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.transcribe;" vertex="1" parent="1">
+          <mxGeometry x="280" y="216" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-11" value="&lt;b&gt;Amazon&lt;/b&gt;&lt;div&gt;&lt;b&gt;Transcribe&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="269" y="274" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q1KITODIG441PftpcKlS-12" target="q1KITODIG441PftpcKlS-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-12" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" vertex="1" parent="1">
+          <mxGeometry x="385" y="216" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-14" value="&lt;b&gt;API&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Gateway&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="379" y="274" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-15" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="220" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q1KITODIG441PftpcKlS-17" target="q1KITODIG441PftpcKlS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-17" value="&lt;b&gt;Lambda&lt;/b&gt;&lt;div&gt;&lt;b&gt;Function&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="274" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-18" value="Preprocessing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-19" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="500" y="390" width="130" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-21" value="&lt;b&gt;FLAN5 model for&lt;/b&gt;&lt;div&gt;&lt;b&gt;Fine-Tunned&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;summarisation&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="1">
+          <mxGeometry x="542.75" y="400" width="44.5" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-22" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#01A88D;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sagemaker;" vertex="1" parent="1">
+          <mxGeometry x="530" y="510" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-23" value="&lt;b&gt;SageMaker NEO&lt;/b&gt;&lt;div&gt;&lt;b&gt;endpoint&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="578" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-24" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_notebook;" vertex="1" parent="1">
+          <mxGeometry x="542.75" y="630" width="41.84" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-25" value="&lt;b&gt;Notebook&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="523.67" y="678" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q1KITODIG441PftpcKlS-26" target="q1KITODIG441PftpcKlS-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-26" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="399" y="519" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-27" value="&lt;b&gt;Lambda&lt;/b&gt;&lt;div&gt;&lt;b&gt;Function&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="389" y="569" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="544" as="sourcePoint" />
+            <mxPoint x="450" y="543.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="544" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-29" value="Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="510" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q1KITODIG441PftpcKlS-30" target="q1KITODIG441PftpcKlS-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="542" />
+              <mxPoint x="270" y="542" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-30" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#01A88D;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.polly;" vertex="1" parent="1">
+          <mxGeometry x="280" y="515" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-34" value="Invoke" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-35" value="&lt;b&gt;Amazon&lt;/b&gt;&lt;div&gt;&lt;b&gt;Polly&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="274" y="573" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="110" height="204.5" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-38" value="&lt;strong&gt;User Interface&lt;/strong&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="644.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-39" value="&lt;b&gt;Summarisation:&lt;/b&gt;&lt;div&gt;There are numerous&lt;/div&gt;&lt;div&gt;low maintenance&lt;/div&gt;&lt;div&gt;reptile pets an&lt;/div&gt;&lt;div&gt;individual can&lt;/div&gt;&lt;div&gt;keep inside&lt;/div&gt;&lt;div&gt;one&#39;s home&lt;/div&gt;&lt;div&gt;providing the correct&lt;/div&gt;&lt;div&gt;environment is&lt;/div&gt;&lt;div&gt;set in the&lt;/div&gt;&lt;div&gt;animals habitat&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="454.5" width="130" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-40" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cognito;fillColor=#AD688B;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="54.5" y="250" width="51" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-41" value="&lt;b&gt;Amazon&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;cognito&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="310" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-42" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc2;strokeColor=#8C4FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="390" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-43" value="Region" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#00A4A6;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="410" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="q1KITODIG441PftpcKlS-44" value="AWS Cloud" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#AAB7B8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="430" height="640" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
